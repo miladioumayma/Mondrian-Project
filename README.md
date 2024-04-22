@@ -4,8 +4,8 @@ Mondrian Project using  display grid
 
 Thanks for checking out this .
 
-##  Web Design Agency project
-A mini-project demonstratingweb design agency using HTML and CSS.
+## Mondrian Project  
+A project demonstrating Mondrain project using HTML and CSS.
 
 ## Overview
 
