@@ -14,7 +14,7 @@ This project includes responsive page .
 ## Project Structure
 
 - `index.html`: web design agency .
-- `stylesignin.css`: Stylesheet for the layout and design for the page.
+- `style.css`: Stylesheet for the layout and design for the page.
 
 ## Contributors
 
